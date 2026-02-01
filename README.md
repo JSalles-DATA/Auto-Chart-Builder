@@ -16,14 +16,14 @@ AutoChart Builder is a simple Python tool that allows users to upload a CSV, sel
 
 ## Folder Structure
 auto-chart-builder/
-├── chart_builder.py
-├── generate_data.py # optional sample data
-├── requirements.txt
-├── README.md
-├── data/
-│ └── user_data.csv
-└── reports/
-└── <generated charts and summaries>
+- chart_builder.py
+- generate_data.py # sample data
+- requirements.txt
+- README.md
+- data/
+  - user_data.csv
+- reports/
+- <generated charts and summaries>
 
 
 ---
