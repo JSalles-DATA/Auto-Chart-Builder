@@ -23,7 +23,7 @@ auto-chart-builder/
 - data/
   - user_data.csv
 - reports/
-- <generated charts and summaries>
+- -generated charts and summaries-
 
 
 ---
